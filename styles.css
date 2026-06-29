@@ -1,0 +1,253 @@
+{
+  "title": "Entre mar, vino y atardeceres",
+  "subtitle": "Un fin de semana por las Rías Baixas",
+  "plans": [
+    {
+      "id": "friday-departure",
+      "day": "Viernes",
+      "title": "Salida de Asturias",
+      "description": "Arranca el motor y empieza la historia. Dejamos atrás lo conocido para ir al encuentro del Atlántico.",
+      "image": "assets/images/friday-departure.webp",
+      "scene": "road"
+    },
+    {
+      "id": "friday-lunch-solana",
+      "day": "Viernes",
+      "title": "Comida en La Solana",
+      "description": "Primera parada en Ribadeo. Una mesa tranquila para reponer fuerzas antes de seguir hacia el sur.",
+      "image": "assets/images/friday-lunch-solana.webp",
+      "scene": "table",
+      "location": "Restaurante La Solana, Ribadeo"
+    },
+    {
+      "id": "friday-drive-ogrove",
+      "day": "Viernes",
+      "title": "Camino a O Grove",
+      "description": "La carretera bordea la costa. El paisaje cambia y el mar empieza a aparecer entre los pinos.",
+      "image": "assets/images/friday-drive-ogrove.webp",
+      "scene": "road",
+      "location": "O Grove, Pontevedra"
+    },
+    {
+      "id": "friday-checkin-touro",
+      "day": "Viernes",
+      "title": "Llegada al Hotel Touro",
+      "description": "Nuestro refugio durante estos días. Dejamos las maletas y respiramos el aire salado.",
+      "image": "assets/images/friday-checkin-touro.webp",
+      "scene": "hotel",
+      "location": "Hotel Touro, O Grove"
+    },
+    {
+      "id": "friday-beach",
+      "day": "Viernes",
+      "title": "Tarde de playa",
+      "description": "Los pies en la arena húmeda y el sonido de las olas. No hay prisa ninguna.",
+      "image": "assets/images/friday-beach.webp",
+      "scene": "beach"
+    },
+    {
+      "id": "friday-picnic-portomouro",
+      "day": "Viernes",
+      "title": "Picnic al atardecer",
+      "description": "En Portomouro, con el cielo encendido. Algo de picar y el mar despidiendo al sol.",
+      "image": "assets/images/friday-picnic-portomouro.webp",
+      "scene": "sunset",
+      "location": "Portomouro, O Grove"
+    },
+    {
+      "id": "friday-rest",
+      "day": "Viernes",
+      "title": "Regreso y descanso",
+      "description": "Volvemos al hotel. La primera jornada se cierra despacio, con calma.",
+      "image": "assets/images/friday-rest.webp",
+      "scene": "night"
+    },
+    {
+      "id": "saturday-breakfast",
+      "day": "Sábado",
+      "title": "Desayuno en el hotel",
+      "description": "Café, luz de mañana y un día entero por delante.",
+      "image": "assets/images/saturday-breakfast.webp",
+      "scene": "morning"
+    },
+    {
+      "id": "saturday-beach-agra",
+      "day": "Sábado",
+      "title": "Playa de Agra",
+      "description": "Arena clara y agua transparente. Una de las joyas escondidas de la ría.",
+      "image": "assets/images/saturday-beach-agra.webp",
+      "scene": "beach",
+      "location": "Playa de Agra, O Grove"
+    },
+    {
+      "id": "saturday-sanxenxo",
+      "day": "Sábado",
+      "title": "Paseo por Sanxenxo",
+      "description": "Callejeamos sin rumbo, mirando escaparates y barcos. El ritmo lo marca el momento.",
+      "image": "assets/images/saturday-sanxenxo.webp",
+      "scene": "town",
+      "location": "Sanxenxo, Pontevedra"
+    },
+    {
+      "id": "saturday-drink",
+      "day": "Sábado",
+      "title": "Tomar algo",
+      "description": "Una terraza, una pausa y un brindis improvisado.",
+      "image": "assets/images/saturday-drink.webp",
+      "scene": "drink"
+    },
+    {
+      "id": "saturday-icecream",
+      "day": "Sábado",
+      "title": "Helado",
+      "description": "El capricho dulce del paseo. Frío, lento y compartido.",
+      "image": "assets/images/saturday-icecream.webp",
+      "scene": "icecream"
+    },
+    {
+      "id": "saturday-lunch-sea",
+      "day": "Sábado",
+      "title": "Comida junto al mar",
+      "description": "Frente al agua, con el rumor de las olas de fondo.",
+      "image": "assets/images/saturday-lunch-sea.webp",
+      "scene": "table"
+    },
+    {
+      "id": "saturday-beach-afternoon",
+      "day": "Sábado",
+      "title": "Tarde de playa",
+      "description": "Más sol, más mar y más calma. La tarde se estira sin avisar.",
+      "image": "assets/images/saturday-beach-afternoon.webp",
+      "scene": "beach"
+    },
+    {
+      "id": "saturday-hotel-return",
+      "day": "Sábado",
+      "title": "Vuelta al hotel",
+      "description": "Una pausa para recuperar el aliento antes de la noche.",
+      "image": "assets/images/saturday-hotel-return.webp",
+      "scene": "hotel"
+    },
+    {
+      "id": "saturday-prepare",
+      "day": "Sábado",
+      "title": "Prepararse para salir",
+      "description": "Ducha, ropa buena y ganas de noche. La velada promete.",
+      "image": "assets/images/saturday-prepare.webp",
+      "scene": "night"
+    },
+    {
+      "id": "saturday-cambados",
+      "day": "Sábado",
+      "title": "Rumbo a Cambados",
+      "description": "La capital del albariño nos espera. Piedra, plazas y aroma a vino.",
+      "image": "assets/images/saturday-cambados.webp",
+      "scene": "town",
+      "location": "Cambados, Pontevedra"
+    },
+    {
+      "id": "saturday-tasting",
+      "day": "Sábado",
+      "title": "Cata informal de vinos",
+      "description": "Cuatro vinos, dos paladares y un tablero para decidir el favorito. Que gane el mejor.",
+      "image": "assets/images/saturday-tasting.webp",
+      "scene": "wine",
+      "type": "tasting"
+    },
+    {
+      "id": "saturday-dinner-lanzada",
+      "day": "Sábado",
+      "title": "Cena en A Lanzada",
+      "description": "Arroz frente al mar para coronar el día.",
+      "image": "assets/images/saturday-dinner-lanzada.webp",
+      "scene": "table",
+      "location": "Arrocería A Lanzada"
+    },
+    {
+      "id": "saturday-concert",
+      "day": "Sábado",
+      "title": "Concierto en O Náutico",
+      "description": "Música en directo en San Vicente do Mar. La noche tiene banda sonora.",
+      "image": "assets/images/saturday-concert.webp",
+      "scene": "music",
+      "location": "O Náutico, San Vicente do Mar"
+    },
+    {
+      "id": "saturday-return",
+      "day": "Sábado",
+      "title": "Regreso al hotel",
+      "description": "El segundo día se apaga con una sonrisa cansada.",
+      "image": "assets/images/saturday-return.webp",
+      "scene": "night"
+    },
+    {
+      "id": "sunday-breakfast",
+      "day": "Domingo",
+      "title": "Desayuno en el hotel",
+      "description": "El último desayuno frente al mar. Sin prisa, saboreando.",
+      "image": "assets/images/sunday-breakfast.webp",
+      "scene": "morning"
+    },
+    {
+      "id": "sunday-beach-pool",
+      "day": "Domingo",
+      "title": "Playa o piscina",
+      "description": "Agua, sol y los últimos momentos de descanso.",
+      "image": "assets/images/sunday-beach-pool.webp",
+      "scene": "beach"
+    },
+    {
+      "id": "sunday-pack",
+      "day": "Domingo",
+      "title": "Ducha y maletas",
+      "description": "Recogemos despacio, guardando también los recuerdos.",
+      "image": "assets/images/sunday-pack.webp",
+      "scene": "hotel"
+    },
+    {
+      "id": "sunday-checkout",
+      "day": "Domingo",
+      "title": "Check-out",
+      "description": "Decimos adiós al Hotel Touro. Gracias por el refugio.",
+      "image": "assets/images/sunday-checkout.webp",
+      "scene": "hotel"
+    },
+    {
+      "id": "sunday-ogrove",
+      "day": "Domingo",
+      "title": "Paseo por O Grove",
+      "description": "Un último recorrido por el puerto antes de partir.",
+      "image": "assets/images/sunday-ogrove.webp",
+      "scene": "town",
+      "location": "O Grove, Pontevedra"
+    },
+    {
+      "id": "sunday-tapeo",
+      "day": "Domingo",
+      "title": "Tapeo",
+      "description": "Pequeños bocados para la despedida. Lo bueno, en raciones cortas.",
+      "image": "assets/images/sunday-tapeo.webp",
+      "scene": "drink"
+    },
+    {
+      "id": "sunday-icecream",
+      "day": "Domingo",
+      "title": "Helado",
+      "description": "El dulce punto final antes de la vuelta.",
+      "image": "assets/images/sunday-icecream.webp",
+      "scene": "icecream"
+    },
+    {
+      "id": "sunday-return",
+      "day": "Domingo",
+      "title": "Regreso a Asturias",
+      "description": "Volvemos a casa con la maleta llena de mar, vino y atardeceres.",
+      "image": "assets/images/sunday-return.webp",
+      "scene": "road"
+    }
+  ],
+  "tasting": {
+    "wines": ["Vino 1", "Vino 2", "Vino 3", "Vino 4"],
+    "voters": ["Andrés", "Estela"]
+  }
+}
