@@ -11,9 +11,10 @@
       <stop offset="1" stop-color="#f5dcaa" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect width="512" height="512" rx="112" fill="url(#sky)"/>
-  <rect width="512" height="512" rx="112" fill="url(#sun)"/>
-  <circle cx="256" cy="300" r="64" fill="#f3e1b4" opacity="0.92"/>
+  <!-- Full-bleed background; subject kept within the central safe zone -->
+  <rect width="512" height="512" fill="url(#sky)"/>
+  <rect width="512" height="512" fill="url(#sun)"/>
+  <circle cx="256" cy="288" r="46" fill="#f3e1b4" opacity="0.92"/>
   <g fill="#0c2630" opacity="0.92">
     <path d="M0 360c60 18 90-14 140-14s78 30 130 30 80-30 132-30 80 24 122 12v152H0z"/>
   </g>
